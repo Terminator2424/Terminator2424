@@ -6,7 +6,7 @@ Portafolio: https://portafolio-cubo-two.vercel.app
 
 ## Sobre mí
 
-Trabajo principalmente en backend con Java, Quarkus y Spring Boot, aplicando arquitectura hexagonal. En inteligencia artificial uso Python, con herramientas locales como Ollama y RAG. También hago desarrollo web y móvil con React, Next.js y React Native, y he trabajado temas de redes y ciberseguridad.
+Trabajo principalmente en backend con Java, Quarkus y Spring Boot, se aplicar arquitectura hexagonal pero abarco otros temas y arquitecturas. En inteligencia artificial uso Python, con herramientas locales como Ollama y RAG. También hago desarrollo web y móvil con React, Next.js y React Native, y he trabajado temas de redes y ciberseguridad.
 
 Además del código, me interesa explicar lo que construyo. He expuesto proyectos en clase y en eventos, y estoy reforzando el inglés para comunicar el trabajo técnico en otros contextos.
 
