@@ -1,6 +1,6 @@
 ﻿# Edison Javier Gonzalez Velosa
 
-Estudiante de Ingeniería de Sistemas en la Universidad Santo Tomás, Seccional Tunja. Voy en octavo semestre.
+Estudiante de Ingeniería de Sistemas en la Universidad Santo Tomás. Voy en octavo semestre.
 
 Portafolio: https://portafolio-cubo-two.vercel.app
 
